@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, data, data-mongodb, http-client-test, junit, kapt, kotlin, kotlin-application, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mongo-reactive, mongo-sync, netty-server, properties, readme, serialization-jackson, shade, test-resources]
